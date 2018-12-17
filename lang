@@ -452,7 +452,7 @@ http://125.17.129.7/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122630
 http://125.17.129.14/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/1.m3u8|User-Agent=why\
 #EXTINF:0, tvg-logo="https://i.imgur.com/XbswUqI.jpg" group-title="Tamil",Jaal TV	
 #EXTINF:0, tvg-logo="https://i.imgur.com/DyY2bud.jpg" group-title="Tamil",Jaffna TV
-http://stmv3.srvstm.com/matheus/matheus/playlist.m3u8
+http://59f1cbe63db89.streamlock.net:1935/self/self/playlist.m3u8
 #EXTINF:0, tvg-logo="" group-title="Malayalam",Jaihind TV
 http://125.17.129.10/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/01.m3u8|User-Agent=why\
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Janam_TV_logo.png/1200px-Janam_TV_logo.png" group-title="Malayalam",Janam TV
